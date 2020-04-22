@@ -1,0 +1,20 @@
+#header{
+	
+	
+		font-family:Hobo Std;
+		font-style:bold;
+		}
+		
+#nav{
+        font-size:14px;
+		font-family:Georgia;
+		font-style:italic}
+		a:hover{color:white;font-weight:bold}
+		a:visited{color:navy}
+		a:active{color:grey}
+		
+
+
+		
+#article{font-style:italic;}
+		
